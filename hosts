@@ -106272,6 +106272,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 th.datememe.com
 0.0.0.0 vi.datememe.com
 0.0.0.0 zh-cn.datememe.com
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
 #rutracker
 0.0.0.0 mbga.jp
 0.0.0.0 mixi.jp
@@ -106282,14 +106289,5 @@ ff02::3 ip6-allhosts
 0.0.0.0 robinbob.in
 0.0.0.0 kwork.ru
 0.0.0.0 betsonsport.ru
-0.0.0.0 betsonsport.ru
 0.0.0.0 rutrk.org
 0.0.0.0 ae01.alicdn.com
-# blacklist
-#
-# The contents of this file (containing a listing of additional domains in
-# 'hosts' file format) are appended to the unified hosts file during the
-# update process. For example, uncomment the following line to block
-# 'example.com':
-
-# 0.0.0.0 example.com
