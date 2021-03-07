@@ -106272,13 +106272,13 @@ ff02::3 ip6-allhosts
 0.0.0.0 th.datememe.com
 0.0.0.0 vi.datememe.com
 0.0.0.0 zh-cn.datememe.com
+#rutracker
 0.0.0.0 mbga.jp
 0.0.0.0 mixi.jp
 0.0.0.0 mixch.tv
 0.0.0.0 lobi.co
 0.0.0.0 marathonbet.com
 0.0.0.0 stavkiprognozy.ru
-0.0.0.0 rutracker.org/forum/out.php?url=https%3A%2F%2Faliexpress.ru%2Fitem%2F4000927697588.html&p=2&t=1&f=1&u=1
 0.0.0.0 robinbob.in
 0.0.0.0 kwork.ru
 # blacklist
