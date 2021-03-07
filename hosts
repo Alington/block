@@ -1,0 +1,52 @@
+# Title: StevenBlack/hosts with the fakenews, gambling, porn and social extensions
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 06 March 2021 22:46:25 (UTC)
+# Extensions added to this file: fakenews, gambling, porn, social
+# Number of unique domains: 99,619
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn-social/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Hosts contributed by Steven Black
+# http://stevenblack.com
+0.0.0.0 marathonbet.com
+0.0.0.0 stavkiprognozy.ru
+0.0.0.0 rutracker.org/forum/out.php?url=https%3A%2F%2Faliexpress.ru%2Fitem%2F4000927697588.html&p=2&t=1&f=1&u=1
+0.0.0.0 robinbob.in
+0.0.0.0 kwork.ru
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
